@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2e2e2e</color>
+    <color name="colorPrimaryDark">#8f8e8e</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="navigationBarColor">#06ffffff</color>
+    <color name="relativelayout">#ffffff</color>
+    <color name="relcolor">#ffffff</color>
+    <color name="linearlayout2color">#12e2e2</color>
+    <color name="knapperfarge">#05ff4081</color>
+    <color name="textcolor">#070707</color>
+    <color name="clearbutton">#11dfee</color>
+    <color name="equals">#00ff4081</color>
+    <color name="dashcolor">#bf0109</color>
+</resources>
